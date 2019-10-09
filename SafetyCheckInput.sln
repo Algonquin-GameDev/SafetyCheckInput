@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SafetyCheckInput", "SafetyCheckInput\SafetyCheckInput.vcxproj", "{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}.Debug|x64.ActiveCfg = Debug|x64
+		{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}.Debug|x64.Build.0 = Debug|x64
+		{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}.Debug|x86.Build.0 = Debug|Win32
+		{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}.Release|x64.ActiveCfg = Release|x64
+		{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}.Release|x64.Build.0 = Release|x64
+		{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}.Release|x86.ActiveCfg = Release|Win32
+		{6BBAD16B-3A18-4C4B-9B40-A7DC9459F00B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B16E445-D8D2-444A-AD70-7B8771A76B5E}
+	EndGlobalSection
+EndGlobal
